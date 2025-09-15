@@ -17,7 +17,9 @@ To implement conversational AI NPCs with Agora, you use the Agora ConvoAI Engine
 
 The following figure shows the data flow between your Unity application, players, and Agora's ConvoAI infrastructure:
 
-![ConvoAI Architecture](https://github.com/user-attachments/assets/ccb51428-4101-404e-805f-7608f5c693ba)
+![ConvoAI Architecture]
+<img width="1222" height="682" alt="ConvoAI_Architecture" src="https://github.com/user-attachments/assets/b1ed62ed-bd33-4e54-bfde-4d915fec0eb9" />
+
 
 The ConvoAI Engine seamlessly integrates with Agora's proven Voice SDK, allowing NPCs to participate naturally in player conversations while maintaining ultra-low latency and enterprise-grade reliability.
 
